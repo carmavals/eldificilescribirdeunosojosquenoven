@@ -45,3 +45,17 @@ section div{
   height: min-content;
   
 }
+
+.botones button{
+width: 6rem;
+height: 6rem;
+background-color: black;
+border-color: black;
+}
+
+.botones button img{
+  width: 5rem;
+  height: 5rem;
+  padding: 5px;
+}
+
